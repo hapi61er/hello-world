@@ -1,2 +1,6 @@
 # hello-world
-first repository
+
+Hi, I am May and studying Bioinfo now.
+
+---
+
